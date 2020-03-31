@@ -1,0 +1,41 @@
+{
+  "name": "help.com-react-coding-challange",
+  "version": "0.0.1",
+  "description": "help.com react coding challange",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom"
+  },
+  "author": "Help.com",
+  "license": "No license",
+  "dependencies": {
+    "@material-ui/core": "^3.8.2",
+    "chance": "^0.8.0",
+    "lodash": "^4.17.2",
+    "prop-types": "^15.5.8",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "^3.0.1"
+  },
+  "devDependencies": {},
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "jest": {
+    "collectCoverageFrom": [
+      "**/src/**/*.js",
+      "!**/__tests__/**"
+    ]
+  }
+}
