@@ -33,4 +33,9 @@ Note: The example design below.
 8. Use material-ui components and JSS styles.
 9. Test your application to the degree that you feel comfortable with. No specific testing frameworks are required.
 
+### Bonus Points and Nice to Have
+--------------
+1. Provide test coverage of the components. 
+2. Can you convert these to functional components rather than class based components? 
+
 *** Applicants are provided this challenge with no expectation on deadline. Please take the time you need to complete the challenge to the best of your ability. ***
