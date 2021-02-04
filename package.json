@@ -11,13 +11,16 @@
   "author": "Help.com",
   "license": "No license",
   "dependencies": {
-    "@material-ui/core": "^3.8.2",
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/styles": "4.11.1",
     "chance": "^0.8.0",
     "lodash": "^4.17.2",
     "prop-types": "^15.5.8",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "^3.0.1"
+    "react-scripts": "^3.0.1",
+    "styled-components": "^5.2.1"
   },
   "devDependencies": {},
   "browserslist": {
